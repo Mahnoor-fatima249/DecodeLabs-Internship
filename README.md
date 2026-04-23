@@ -1,4 +1,4 @@
-# DecodeLabs AI Internship 2026
+**# DecodeLabs AI Internship 2026**
 **Developer:** Mahnoor Fatima (Mahnoor.dev)
 
 Welcome to my internship portfolio! This repository contains all the projects and tasks I completed during my AI training at **DecodeLabs**.
